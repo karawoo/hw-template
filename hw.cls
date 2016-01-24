@@ -30,6 +30,9 @@
 % Indentation
 \setlength\parindent{1cm}
 
+% Break long urls
+\usepackage[hyphens]{url}
+
 % Load setspace package
 \usepackage{setspace}
 %\linespread{2}                  % uncomment this line if you want double spaced
