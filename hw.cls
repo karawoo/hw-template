@@ -1,6 +1,6 @@
 % Homework style
 % 
-% Copyright (c) 2015 by Kara Woo
+% Copyright (c) 2016 by Kara Woo
 
 % Permission is hereby granted, free of charge, to any person obtaining a copy
 % of this software and associated documentation files (the "Software"), to deal
