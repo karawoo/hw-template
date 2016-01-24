@@ -5,7 +5,7 @@ This is a LaTeX template to format papers and other homework assignments so I ca
 On my Mac I have made the `hw` class available globally by linking `hw.cls` into the `~/texmf/tex/latex/` directory:
 
 ```bash
-ln ~/projects/hw-template/hw.cls ~/texmf/tex/latex/hw.cls
+ln ~/projects/hw-template/hw.cls ~/Library/texmf/tex/latex/hw.cls
 ```
 
 To get org-mode to recognize the `hw` class I added the following to my Emacs init file:
