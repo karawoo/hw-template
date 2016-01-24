@@ -27,6 +27,9 @@
 % Margins
 \usepackage[margin=1.0in]{geometry} 
 
+% Indentation
+\setlength\parindent{1cm}
+
 % Load setspace package
 \usepackage{setspace}
 %\linespread{2}                  % uncomment this line if you want double spaced
