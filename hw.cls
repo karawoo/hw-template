@@ -55,6 +55,7 @@
       % Course is in a parbox to force the line to wrap if the course name is too long
       \parbox{0.4\textwidth}{\strut \raggedleft\@course}
     \end{flushright}
+    \medskip
     % Title should be centered
     \begin{center}
       \LARGE\@title
